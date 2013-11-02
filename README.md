@@ -1,4 +1,3 @@
-shttps
-======
+# shttps
 
-Simple HTTPS Server to run from command line and serve files over https
+Run as shttps and start serving files on 8443 port
