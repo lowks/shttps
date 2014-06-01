@@ -5,6 +5,7 @@ setup(
         version='0.1',
         packages=['',],
         url='https://github.com/ggarber/shttps',
+        description='Simple HTTPS Server to run from command line and serve files over https',
         license='',
         install_requires=[],
         long_description='Simple HTTPS Server to run from command line and serve local files over https',
